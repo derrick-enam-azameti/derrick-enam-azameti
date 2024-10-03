@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a prolific data and software engineer<br>
-🔭 I’m currently working on a Maze Game<br>👯 I’m looking to collaborate on AIRBNB Simulation Project<br>🌱 I’m currently learning Swift
+🔭 I’m currently working on a Maze Game<br>👯 I’m looking to collaborate on AIRBNB Simulation Project<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/derrick-enam-azameti) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/derrick_azameti) 
